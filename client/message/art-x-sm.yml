@@ -1,0 +1,1270 @@
+toast:
+  success:
+    addDictionary: |-
+      📕🔤:<🎯✨
+    discardDictionary: |-
+      📕🔤:<🎯🗑️
+    uploadDictionary: |-
+      📄🔟:<🎯📤
+      🙏|⌛🤏→⏲🤝🔟
+    changeDictionaryName: |-
+      🏷️:<🎯🔀
+    changeDictionaryParamName: |-
+      🪪🔟:<🎯🔀
+    changeDictionaryExplanation: |-
+      📄💡:<🎯🔀
+    changeDictionaryShowNumbers: |-
+      🎚️🎛️:<🎯🔀
+    changeDictionaryWordCardTitles: |-
+      🎚️🎛️:<🎯🔀
+    changeDictionarySlimeTitles: |-
+      🎚️🎛️:<🎯🔀
+    changeDictionaryVisibility: |-
+      🎚️🎛️:<🎯🔀
+    changeDictionarySettings:
+      akrantiainSource: |-
+        🎚️🎛️:<🎯🔀
+      zatlinSource: |-
+        🎚️🎛️:<🎯🔀
+      font: |-
+        🎚️🎛️:<🎯🔀
+      enableAdvancedWord: |-
+        🎚️🎛️:<🎯🔀
+      enableMarkdown: |-
+        🎚️🎛️:<🎯🔀
+      enableDuplicateName: |-
+        🎚️🎛️:<🎯🔀
+      showVariationPronunciation: |-
+        🎚️🎛️:<🎯🔀
+      punctuations: |-
+        🎚️🎛️:<🎯🔀
+      ignoredEquivalentPattern: |-
+        🎚️🎛️:<🎯🔀
+    addDictionaryTemplateWord: |-
+      🔤🖨️:<🎯✨
+    changeDictionaryTemplateWord: |-
+      🔤🖨️:<🎯✏
+    discardDictionaryTemplateWord: |-
+      🔤🖨️:<🎯🗑️
+    discardDictionaryAuthorizedUser: |-
+      💪>|✏👈_:<🎯←🫴
+    addWord: |-
+      🔤:<🎯✨
+    changeWord: |-
+      🔤:<🎯✏
+    discardWord: |-
+      🔤:<🎯🗑️
+    addExample: |-
+      💬📌:<🎯✨
+    changeExample: |-
+      💬📌:<🎯✏
+    discardExample: |-
+      💬📌:<🎯🗑️
+    addArticle: |-
+      📰:<🎯✨
+    changeArticle: |-
+      📰:<🎯✏
+    discardArticle: |-
+      📰:<🎯🗑️
+    addProposal: |-
+      🙏>✨>🔤:<🎯▶
+    discardProposal: |-
+      🙏>✨>🔤:<🎯🗑️
+    addResource: |-
+      🖼️🔟:<🎯📤
+    discardResource: |-
+      🖼️🔟:<🎯🗑️
+    addInvitation:
+      edit: |-
+        ⬅🤝:<🎯▶
+        💪>|✏👈_:>🎯🫴→👆👤·⏲🫲👆👤·|👌👈_
+      transfer: |-
+        ⬅🤝:<🎯▶
+        👈📕🔤:>🎯🫴→👆👤·⏲🫲👆👤·|👌👈_
+    acceptInvitation:
+      edit: |-
+        🫵👤:<|👌👈⬅🤝
+        🫵👤:>λ💪>|✏👈📕🔤
+      transfer: |-
+        🫵👤:<|👌👈⬅🤝
+        🫵👤:>λ🫱👈📕🔤
+    rejectInvitation:
+      edit: |-
+        🫵👤:<|❌👈⬅🤝
+      transfer: |-
+        🫵👤:<|❌👈⬅🤝
+    discardMe: |-
+      🫵👤.🧑🔟:<🎯🗑️
+    changeMyScreenName: |-
+      🫵👤.🏷️:<🎯🔀
+    changeMyAvatar: |-
+      アイコンを変更しました。
+      反映されるまで少し時間がかかります。
+    changeMyEmail: |-
+      メールアドレスを変更しました。
+    changeMyPassword: |-
+      パスワードを変更しました。
+    changeAppearance: |-
+      外観を変更しました。
+    generateMyApiKey: |-
+      API キーを生成しました。
+    issueMyActivateToken: |-
+      メールを送信しました。
+      メールの指示に従って操作を進めてください。
+    activateMe: |-
+      アカウントをアクティベートしました。
+    issueUserResetToken: |-
+      メールを送信しました。
+      メールの指示に従って操作を進めてください。
+    resetUserPassword: |-
+      パスワードをリセットしました。
+      新しいパスワードを用いてログインしてください。
+    login: |-
+      ログインしました。
+    register: |-
+      アカウントを作成しました。
+    contact: |-
+      お問い合わせを送信しました。
+  error:
+    invalidUserName: |-
+      ユーザー ID の形式が正しくありません。
+    invalidUserEmail: |-
+      メールアドレスの形式が正しくありません。
+    invalidUserPassword: |-
+      パスワードの形式が正しくありません。
+    duplicateUserName: |-
+      そのユーザー ID はすでに存在しています。
+      別のユーザー ID を指定してください。
+    duplicateUserEmail: |-
+      そのメールアドレスはすでに使われています。
+      別のメールアドレスを指定してください。
+    noSuchUser: |-
+      このユーザーは存在しません。
+    noSuchUserEmail: |-
+      そのメールアドレスのユーザーは存在しません。
+    userAlreadyActivated: |-
+      このユーザーはすでにアクティベートされています。
+    invalidActivateToken: |-
+      ユーザーのアクティベートに失敗しました。
+    invalidResetToken: |-
+      パスワードのリセットに失敗しました。
+    loginFailed: |-
+      ログインに失敗しました。
+    noSuchDictionary: |-
+      この辞書は存在しません。
+    duplicateDictionaryParamName: |-
+      その URL 用識別子はすでに利用されています。
+      別の識別子をしてしてください。
+    invalidDictionaryParamName: |-
+      URL 用識別子の形式が正しくありません。
+    dictionarySaving: |-
+      ファイルのアップロード処理中です。
+      少々お待ちください。
+    failAddRelations: |-
+      双方向の関連語の登録に失敗しました。
+    dictionarySizeTooLarge: |-
+      ファイルのサイズが大きすぎます。
+    noSuchWord: |-
+      この単語は存在しません。
+    noSuchExample: |-
+      この例文は存在しません。
+    resourceCountExceeded: |-
+      これ以上ファイルをアップロードすることはできません。
+    resourceSizeTooLarge: |-
+      ファイルのサイズが大きすぎます。
+    unsupportedResourceType: |-
+      このファイルの形式はサポートされていません。
+    userCanAlreadyEdit: |-
+      そのユーザーはすでに編集権限を保有しています。
+    userCanAlreadyOwn: |-
+      そのユーザーはすでに管理者です。
+    editInvitationAlreadyAdded: |-
+      そのユーザーにはすでに招待を行っています。
+    transferInvitationAlreadyAdded: |-
+      そのユーザーにはすでに招待を行っています。
+    noSuchInvitation: |-
+      この招待は存在しません。
+    noSuchDictionaryAuthorizedUser: |-
+      そのユーザーは権限を保有していません。
+    emptyProposalName: |-
+      造語依頼する単語が空です。
+    noSuchProposal: |-
+      その造語依頼は存在しません。
+    emptyContactText: |-
+      お問い合わせ内容が空です。
+    administratorNotFound: |-
+      予期しないエラーが発生しました。
+    recaptchaError: |-
+      エラーが発生しました。
+      もう一度お試しください。
+    recaptchaRejected: |-
+      バックグラウンドの認証に失敗しました。
+      もう一度お試しください。
+    awsError: |-
+      エラーが発生しました。
+      もう一度お試しください。
+    unauthenticated: |-
+      ログインしていません。
+      ログインした後にもう一度お試しください。
+    forbidden: |-
+      このコンテンツにアクセスする権限がありません。
+    serverNotFound: |-
+      アップデートが行われた可能性があります。
+      ページを更新してください。
+    serverError: |-
+      サーバーでエラーが発生しました。
+      時間を置いてもう一度お試しください。
+    serverTimeout: |-
+      サーバーが時間内に応答しませんでした。
+      時間を置いてもう一度お試しください。
+    requestTimeout: |-
+      サーバーが時間内に応答しませんでした。
+      時間を置いてもう一度お試しください。
+    messageNotFound: |-
+      ポップアップ用のメッセージが設定されていません。
+      設定ミスの可能性がありますので、お手数ですが管理者までご連絡ください。
+    unexpected: |-
+      予期しないエラーが発生しました。
+      お手数ですが管理者までご連絡ください。
+
+commonAlert:
+  confirm: "決定"
+  cancel: "キャンセル"
+exampleOfferTag:
+  catalog:
+    zpdicDaily: "今日の例文"
+    appleAlpha: "リンゴを食べたい 58 文"
+    appleBeta: "リンゴを食べ足りない 57 文"
+    appleGamma: "リンゴをもっと食べたい 55 文"
+    survival: "今日を生き抜く実用例文"
+    weaving: "手袋と辞書を編む 50 文"
+    shaleianAlpha: "今日のシャレイア語 I"
+    shaleianBeta: "今日のシャレイア語 II"
+    meat: "古代の民族のためのお肉例文"
+    arithmetic: "算数例文"
+    adposition: "格や接置詞のための例文集"
+  number: "#{number, number}"
+exampleModeSelect:
+  label:
+    sentence: "例文"
+    translation: "訳文"
+    both: "例文＋訳文"
+    tag: "タグ"
+    content: "全文"
+exampleTypeSelect:
+  label:
+    prefix: "前方"
+    suffix: "後方"
+    part: "部分"
+    exact: "完全"
+    regular: "正規"
+wordModeSelect:
+  label:
+    spelling: "単語"
+    term: "訳語"
+    both: "単語＋訳語"
+    tag: "タグ"
+    information: "内容"
+    variation: "変化形"
+    relation: "関連語"
+    content: "全文"
+wordTypeSelect:
+  label:
+    prefix: "前方"
+    suffix: "後方"
+    part: "部分"
+    exact: "完全"
+    regular: "正規"
+
+addProposalDialog:
+  heading: "造語依頼"
+  label:
+    name: "単語"
+    comment: "コメント"
+  button:
+    confirm: "決定"
+  error:
+    nameRequired: >-
+      単語を入力してください。
+articleList:
+  empty: "記事は作成されていません"
+  button:
+    read: "全文を読む"
+    edit: "編集"
+    discard: "削除"
+  dialog:
+    discard:
+      message: >-
+        この記事を削除します。
+        削除した後にデータを戻すことはできません。
+        本当によろしいですか?
+      confirm: "削除"
+changeLocaleForm:
+  label: "言語"
+proposalList:
+  empty: "造語依頼はされていません"
+  button:
+    add: "造語"
+    discard: "削除"
+  dialog:
+    discard:
+      message: >-
+        この造語依頼を削除します。
+        本当によろしいですか?
+      confirm: "削除"
+contactForm:
+  label:
+    name: "名前"
+    email: "メールアドレス"
+    subject: "件名"
+    text: "お問い合わせ内容"
+    agree: "<link>プライバシーポリシー</link>に同意する"
+  button:
+    confirm: "送信"
+  error:
+    emailInvalid: >-
+      正しい形式のメールアドレスを入力してください。
+    textRequired: >-
+      お問い合わせ内容を入力してください。
+    agreeRequired: >-
+      プライバシーポリシーを読んで同意してください。
+dictionaryAuthorizedUserList:
+  empty: "編集権限のあるユーザーはいません"
+  button:
+    discard: "解除"
+  dialog:
+    discard:
+      message: >-
+        このユーザーの編集権限を解除します。
+        本当によろしいですか?
+      confirm: "解除"
+dictionaryHeader:
+  tab:
+    dictionary: "辞書"
+    example: "例文"
+    article: "記事"
+    resource: "画像"
+    information: "詳細情報"
+    proposal: "造語依頼"
+    setting: "設定"
+  table:
+    updatedDate: "更新日時"
+    createdDate: "作成日時"
+  button:
+    addWord: 
+      long: "単語を作成"
+      short: "単語"
+    addExample: 
+      long: "例文を作成"
+      short: "例文"
+    addArticle: 
+      long: "記事を作成"
+      short: "記事"
+    addProposal: "造語依頼"
+    download: "ダウンロード"
+  userCount: "<plus>+</plus>{count, number}"
+dictionaryList:
+  empty: 
+    user: "辞書は作成されていません"
+    all: "該当する辞書は見つかりませんでした"
+  table:
+    updatedDate: "更新日時"
+    createdDate: "作成日時"
+  tag:
+    authority:
+      own: "管理者"
+      edit: "編集のみ"
+      view: "閲覧のみ"
+    visibility:
+      unlisted: "限定公開"
+      private: "非公開"
+  button:
+    see: "辞書ページへ"
+    setting: "設定"
+dictionaryStatisticsView:
+  heading:
+    word: "単語"
+    example: "例文"
+    equivalent: "訳語"
+    information: "内容"
+    informationText: "内容長"
+  value:
+    word: "<number>{value, number}</number><unit>語</unit>"
+    wordTokipona: "<number>{value, number, ::.00}</number><unit>TP</unit>"
+    example: "<number>{value, number}</number><unit>文</unit>"
+    exampleAverage: "<number>{value, number, ::.00}</number><unit>文/語</unit>"
+    equivalent: "<number>{value, number}</number><unit>個</unit>"
+    equivalentAverage: "<number>{value, number, ::.00}</number><unit>個/語</unit>"
+    information: "<number>{value, number}</number><unit>項目</unit>"
+    informationAverage: "<number>{value, number, ::.00}</number><unit>項目/語</unit>"
+    informationText: "<number>{value, number}</number><unit>文字</unit>"
+    informationTextAverage: "<number>{value, number, ::.00}</number><unit>文字/語</unit>"
+editArticleDialog:
+  button:
+    confirm: "決定"
+    external: "別タブで表示"
+editArticleForm:
+  tab:
+    edit: "編集"
+  label:
+    tags: "タグ"
+    title: "タイトル"
+    content: "本文"
+  button:
+    confirm: "決定"
+editExampleDialog:
+  button:
+    confirm: "決定"
+    external: "別タブで表示"
+editExampleForm:
+  tab:
+    edit: "編集"
+    offer: "例文集"
+  heading:
+    basic: "対訳"
+    words: "使用単語"
+  label:
+    tags: "タグ"
+    sentence: "この言語での例文"
+    translation: "自然言語訳"
+    supplement: "補足説明"
+  absent:
+    word: "使用単語が登録されていません"
+  menu:
+    moveUp: "上に移動"
+    moveDown: "下に移動"
+    discard: "削除"
+  button:
+    add:
+      word: "使用単語を追加"
+    confirm: "決定"
+editWordDialog:
+  button:
+    confirm: "決定"
+    external: "別タブで表示"
+editWordForm:
+  tab:
+    edit: "編集"
+    old: "履歴"
+  heading:
+    basic: "基本情報"
+    section: "セクション {numberString}"
+    equivalents: "訳語"
+    informations: "内容"
+    phrases: "成句"
+    variations: "変化形"
+    relations: "関連語"
+    template: "テンプレート設定"
+  label:
+    spelling: "綴り"
+    pronunciation: "発音記号"
+    tags: "タグ"
+    equivalent:
+      titles: "品詞"
+      terms: "訳語"
+      hidden: "検索にのみ用いる (単語カードでは非表示にする)"
+    information:
+      title: "見出し"
+      text: "内容"
+      hidden: "単語カードでは非表示にする"
+    phrase:
+      titles: "分類"
+      expression: "表現"
+      terms: "訳語"
+    variation:
+      title: "種類"
+      spelling: "変化形"
+      pronunciation: "発音記号"
+    relation:
+      titles: "分類"
+      spelling: "関連語"
+      mutual: "この関連語を双方向にする"
+    title: "テンプレート名"
+  absent:
+    equivalent: "訳語が登録されていません"
+    information: "内容が登録されていません"
+    phrase: "成句が登録されていません"
+    variation: "変化形が登録されていません"
+    relation: "関連語が登録されていません"
+  duplicateSpelling: >-
+    同じ綴りの単語がすでに登録されています。
+  menu:
+    moveUp: "上に移動"
+    moveDown: "下に移動"
+    duplicate: "複製"
+    discard: "削除"
+  button:
+    add:
+      section: "セクションを追加"
+      equivalent: "訳語を追加"
+      information: "内容を追加"
+      phrase: "成句を追加"
+      variation: "変化形を追加"
+      relation: "関連語を追加"
+    resource: "画像"
+    generate: "生成"
+    confirm: "決定"
+exampleList:
+  empty: "該当する例文は見つかりませんでした"
+  noWord: "使用単語が登録されていません"
+  button:
+    edit: "編集"
+    discard: "削除"
+    share: "共有"
+    info: "詳細"
+  table:
+    updatedDate: "更新日時"
+    createdDate: "作成日時"
+  dialog:
+    discard:
+      message: >-
+        この例文を削除します。
+        削除した後にデータを戻すことはできません。
+        本当によろしいですか?
+      confirm: "削除"
+exampleOfferList:
+  button:
+    add: "翻訳"
+    select: "選択"
+examplePopover:
+  button:
+    edit: "編集"
+    detail: "詳細"
+executeAkrantiainDialog:
+  label:
+    source: "ソースコード"
+    input: "変換文字列"
+    output: "結果"
+    error: "エラーメッセージ"
+  button:
+    execute: "実行"
+executeZatlinDialog:
+  label:
+    source: "ソースコード"
+    output: "結果"
+    error: "エラーメッセージ"
+  button:
+    execute: "実行"
+footer:
+  link:
+    notification: "お知らせ"
+    contact: "お問い合わせ"
+    document: "ドキュメント"
+header:
+  link:
+    dictionary: "辞書一覧"
+    exampleOffer: "例文集"
+  userPage: "ユーザーページ"
+invitationList:
+  empty: "通知はありません"
+  tag:
+    edit: "編集権限"
+    transfer: "譲渡"
+  explanation:
+    edit: >-
+      {userNode} がこの辞書の編集権限を付与しようとしています。
+      これを承認すると、この辞書を編集できるようになります。
+    transfer: >-
+      {userNode} がこの辞書を譲渡しようとしています。
+      これを承認すると、この辞書の管理者に代わりになります。
+  dialog:
+    reject:
+      message: >-
+        この招待を拒否します。
+        本当によろしいですか?
+      confirm: "拒否"
+  button:
+    accept: "承認"
+    reject: "拒否"
+notificationList:
+  tag:
+    update: "アップデート"
+    bug: "不具合"
+    info: "その他"
+    fixed: "修正済み"
+orderDirectionSelect:
+  ascending: "昇順"
+  descending: "降順"
+orderModeSelect:
+  unicode: "Unicode"
+  dictionaryName: "名前"
+  wordName: "単語"
+  custom: "独自順"
+  updatedDate: "更新日時"
+  createdDate: "作成日時"
+resourceList:
+  empty: "画像は登録されていません"
+  button:
+    copy: "コピー"
+    discard: "削除"
+  toast:
+    copy: |-
+      コードをコピーしました。
+  dialog:
+    discard:
+      message: >-
+        この画像を削除します。
+        削除した後にデータを戻すことはできません。
+        本当によろしいですか?
+      confirm: "削除"
+resourceListDialog:
+  explanation: >-
+    画像の下に表示されているコードを内容欄に貼り付けると、その箇所に画像が表示されます。
+  callout: >-
+    内容欄に画像を表示するには、Markdown を有効にする必要があります。
+  button:
+    enable: "Markdown を有効化"
+searchExampleForm:
+  label:
+    ignoreCase: "大小文字の違いを無視"
+searchWordAdvancedDialog:
+  label:
+    mode: "検索範囲"
+    type: "検索方式"
+    title: "分類"
+    text: "検索内容"
+  button:
+    add:
+      element: "条件を追加"
+    confirm: "決定"
+searchWordForm:
+  label:
+    ignoreCase: "大小文字の違いを無視"
+    enableSuggestions: "変化形をサジェスト"
+  button:
+    shuffleResult: "検索結果をシャッフル"
+    advancedSearch: "高度な検索"
+shareMenu:
+  label:
+    twitter: "X (旧 Twitter)"
+    bluesky: "Bluesky"
+    misskey: "Misskey.io"
+    copy: "リンクをコピー"
+    other: "その他"
+  toast:
+    copy: |-
+      リンクをコピーしました。
+suggestionCard:
+  maybe: "もしかして…"
+  message: "{nameNode} <mute>の</mute> {title}"
+userHeader:
+  tab:
+    dictionary: "辞書"
+    notification: "通知"
+    setting: "設定"
+    appearance: "外観"
+    developer: "開発向け"
+    logout: "ログアウト"
+  button:
+    issueActivateToken: "メールを再送信"
+  callout:
+    activate: >-
+      このユーザーはまだアクティベートされていません。
+      アカウント作成時に送られたメールの指示に従って、ユーザーをアクティベートしてください。
+      アクティベートされていないユーザーは、機能を制限される可能性があります。
+wordList:
+  empty: "該当する単語は見つかりませんでした"
+  button:
+    edit: "編集"
+    duplicate: "複製編集"
+    discard: "削除"
+    share: "共有"
+    select: "この版に戻す"
+    create: "作成"
+    proposal: "造語依頼"
+    info: "詳細"
+  table:
+    updatedDate: "更新日時"
+    createdDate: "作成日時"
+  dialog:
+    discard:
+      message: >-
+        この単語を削除します。
+        削除した後にデータを戻すことはできません。
+        本当によろしいですか?
+      confirm: "削除"
+templateWordList:
+  empty: "テンプレートは作成されていません"
+  button:
+    edit: "詳細 · 編集"
+    discard: "削除"
+  label:
+    equivalent: "訳語 ×{count}"
+    information: "内容 ×{count}"
+    phrase: "成句 ×{count}"
+    variation: "変化形 ×{count}"
+    relation: "関連語 ×{count}"
+  dialog:
+    discard:
+      message: >-
+        このテンプレートを削除します。
+        削除した後にデータを戻すことはできません。
+        本当によろしいですか?
+      confirm: "削除"
+wordNameFrequencyChart:
+  other: "その他"
+wordPopover:
+  button:
+    edit: "編集"
+loginForm:
+  label:
+    name: "ユーザー ID"
+    password: "パスワード"
+  button:
+    confirm: "ログイン"
+    register: "新規登録"
+    resetPassword: "パスワードリセット"
+  or: "or"
+  error:
+    nameRequired: >-
+      ユーザー ID を入力してください。
+    passwordRequired: >-
+      パスワードを入力してください。
+registerForm:
+  label:
+    name: &label.name "ユーザー ID"
+    email: &label.email "メールアドレス"
+    password: "パスワード"
+    agree: "<link>プライバシーポリシー</link>に同意する"
+  button:
+    confirm: "新規登録"
+  error:
+    nameInvalid: >-
+      ユーザー ID は、半角英数字とアンダーバーとハイフンのみで構成され、数字以外の文字が 1 文字以上含まれている必要があります。
+    nameTooLong: >-
+      ユーザー ID は 30 文字以下である必要があります。
+    nameRequired: &error.nameRequired >-
+      ユーザー ID を入力してください。
+    emailInvalid: &error.emailInvalid >-
+      正しい形式のメールアドレスを入力してください。
+    emailRequired: &error.emailRequired >-
+      メールアドレスを入力してください。
+    passwordTooShort: &error.passwordTooShort >-
+      パスワードは 6 文字以上である必要があります。
+    passwordTooLong: &error.passwordTooLong >-
+      パスワードは 50 文字以下である必要があります。
+    passwordRequired: &error.passwordRequired >-
+      パスワードを入力してください。
+    agreeRequired: >-
+      このアプリケーションを利用していただくには、プライバシーポリシーをお読みいただき同意していただく必要があります。
+issueUserResetTokenForm:
+  label:
+    name: *label.name
+    email: *label.email
+  error:
+    nameRequired: *error.nameRequired
+    emailInvalid: *error.emailInvalid
+    emailRequired: *error.emailRequired
+  button:
+    confirm: "送信"
+resetUserPasswordForm:
+  label:
+    password: "新しいパスワード"
+  error:
+    tooShort: *error.passwordTooShort
+    tooLong: *error.passwordTooLong
+    required: *error.passwordRequired
+  button:
+    confirm: "リセット"
+
+commonForm:
+  button:
+    change: "変更"
+addEditInvitationButton:
+  heading: "編集権限を付与"
+  label:
+    user: "権限を付与するユーザー"
+  button:
+    open: "編集権限をユーザーに付与"
+    confirm: "決定"
+  error:
+    required: >-
+      ユーザーを選択してください。
+addTransferInvitationButton:
+  heading: "譲渡"
+  label:
+    user: "譲渡先のユーザー"
+  button:
+    open: "譲渡"
+    confirm: "決定"
+  error:
+    required: >-
+      ユーザーを選択してください。
+addDictionaryButton:
+  heading: "新しい辞書を作成"
+  label:
+    name: "名前"
+  button:
+    open: "新しい辞書を作成"
+    confirm: "決定"
+  error:
+    required: >-
+      名前を選択してください。
+addResourceButton:
+  heading: "画像をアップロード"
+  label:
+    file: "画像ファイル"
+  button:
+    open: "画像をアップロード"
+    confirm: "決定"
+  error:
+    required: >-
+      画像ファイルを選択してください。
+    tooLarge: >-
+      ファイルのサイズが大きすぎます。
+      1 MB より大きなファイルはアップロードすることができません。
+changeAppearanceForm:
+  label: 
+    font:
+      label: "フォント"
+      sans: "ゴシック体"
+      serif: "明朝体"
+    scheme:
+      normal: "通常色"
+      dimmed: "淡色"
+    theme:
+      label: "配色テーマ"
+      light: "ライト"
+      dark: "ダーク"
+changeDictionaryNameForm:
+  error:
+    required: >-
+      名前を入力してください。
+changeDictionaryParamNameForm:
+  error:
+    invalid: >-
+      識別子は、半角英数字とアンダーバーとハイフンのみで構成され、数字以外の文字が 1 文字以上含まれている必要があります。
+    tooLong: >-
+      識別子は 30 文字以下である必要があります。
+changeDictionaryFontForm:
+  label:
+    kind:
+      none: "設定しない"
+      local: "ローカルフォントを参照"
+      custom: "フォントをアップロード"
+    input:
+      name: "フォントファミリー名"
+      file: "フォントファイル"
+  labelHelper:
+    kind:
+      none: |-
+        デフォルトフォントで表示します。
+      local: |-
+        閲覧者の環境に保存されているローカルフォントで表示します。
+        指定されたフォントが閲覧者の環境にインストールされていない場合は、デフォルトフォントが使われます。
+      custom: |-
+        フォントファイルをアップロードすることで、そのフォントで表示します。
+        閲覧者の環境によらず、指定されたフォントで表示することができます。
+  error:
+    nameRequired: >-
+      フォントファミリー名を入力してください。
+    filetooLarge: >-
+      ファイルのサイズが大きすぎます。
+      1 MB より大きなファイルはアップロードすることができません。
+changeDictionarySettingsForm:
+  label:
+    enableAdvancedWord:
+      true: "有効"
+      false: "無効"
+    enableMarkdown:
+      true: "有効"
+      false: "無効"
+    enableDuplicateName:
+      true: "有効"
+      false: "無効"
+    showVariationPronunciation:
+      true: "表示する"
+      false: "表示しない"
+  pattern:
+    none: "設定なし"
+    paren: "丸カッコ内を無視"
+    bracket: "角カッコ内を無視"
+  error:
+    invalidPattern: >-
+      正規表現として有効なパターンを入力してください。
+changeDictionaryShowNumbersForm:
+  label:
+    section: "セクション"
+    equivalent: "訳語"
+    true: "表示する"
+    false: "表示しない"
+changeDictionarySlimeTitlesForm:
+  label:
+    pronunciation: "発音"
+changeDictionaryWordCardTitlesForm:
+  label:
+    phrase: "成句"
+    example: "例文"
+changeDictionaryVisibilityForm:
+  label:
+    public: "全体公開"
+    unlisted: "限定公開"
+    private: "非公開"
+  labelHelper:
+    public: |-
+      誰でも自由に閲覧できます。
+    unlisted: |-
+      辞書一覧などには表示されませんが、辞書ページの URL を知っている人は直接アクセスできます。
+    private: |-
+      編集権限がある人のみ閲覧できます。
+      権限がない人は URL から直接アクセスしても閲覧できません。
+changeDictionarySourceForm:
+  button:
+    try: "試す"
+changeMyEmailForm:
+  error:
+    invalid: >-
+      正しい形式のメールアドレスを入力してください。
+    required: >-
+      メールアドレスを入力してください。
+changeMyPasswordForm:
+  label:
+    currentPassword: "現在のパスワード"
+    newPassword: "新しいパスワード"
+  error:
+    tooShort: >-
+      パスワードは 6 文字以上である必要があります。
+    tooLong: >-
+      パスワードは 50 文字以下である必要があります。
+    currentRequired: >-
+      現在のパスワードを入力してください。
+    newRequired: >-
+      新しいパスワードを入力してください。
+changeMyScreenNameForm:
+  error:
+    required: >-
+      ニックネームを入力してください。
+discardDictionaryButton:
+  button:
+    submit: "削除"
+  dialog:
+    message: >-
+      この辞書を削除します。
+      削除した後にデータを戻すことはできません。
+      本当によろしいですか?
+    confirm: "削除"
+discardMeButton:
+  button:
+    submit: "削除"
+  dialog:
+    message: >-
+      アカウントを削除します。
+      削除した後にデータを戻すことはできません。
+      本当によろしいですか?
+    confirm: "削除"
+downloadDictionaryButton:
+  button:
+    start: "エクスポート"
+    download: "ダウンロード"
+  status:
+    loading: "処理中"
+    error: "失敗"
+generateMyApiKeyForm:
+  button:
+    generate: "新規生成"
+    copy: "コピー"
+  toast: 
+    copy: >-
+      API キーをコピーしました。
+  caution: >-
+    API キーを後から確認することはできません。
+    今の段階でコピーして保存しておいてください。
+uploadDictionaryButton:
+  heading: "インポート"
+  label:
+    file: "ファイル"
+  status:
+    loading: "処理中"
+    success: "完了"
+    error: "失敗"
+  button:
+    open: "インポート"
+    confirm: "決定"
+  error:
+    required: >-
+      ファイルを選択してください。
+    tooLarge: >-
+      ファイルのサイズが大きすぎます。
+      5 MB より大きなファイルはアップロードすることができません。
+
+contactPage:
+  title: "お問い合わせ"
+  heading: "お問い合わせ"
+  explanation: |-
+    匿名でのお問い合わせをご希望の場合は、ログアウトした状態で「名前」欄を空欄にした上で送信してください。
+    なお、辞書の設定や編集などに関わるような、ユーザーの権限が必要になる内容に関するお問い合わせの場合、匿名では対応できない場合がありますのでご了承ください。
+  discord: |-
+    また、<link>Discord の公式フォーラム</link>を設けてあります。
+    お問い合わせ内容が本サービスに関する質問の場合は、こちらもご利用いただけます。
+  disclaimer: |-
+    なお、全てのお問い合わせに直接お答えできるとは限りません。
+    あらかじめご了承ください。
+exampleOfferListPage:
+  title: "例文集"
+  heading: "例文集"
+dictionaryArticlePart:
+  button:
+    addArticle: "記事を作成"
+dictionaryArticleSinglePart:
+  button:
+    back: "一覧に戻る"
+dictionaryProposalPart:
+  button:
+    addProposal: "造語依頼"
+dictionaryExamplePart:
+  heading:
+    offer: "今日の例文"
+  button:
+    addExample: "例文を作成"
+dictionaryInformationPart:
+  heading:
+    history: "単語数推移"
+    wordNameFrequency: "文字頻度"
+  description: 
+    history: >-
+      この辞書の直近 100 日間の単語数の推移です。
+      単語数は毎日 23 時 30 分頃に記録されます。
+    wordNameFrequency: >-
+      見出し語に使われている各文字の出現頻度です。
+dictionaryMainPart:
+  button:
+    addWord: "単語を作成"
+    addWordFromTemplate: "テンプレートから単語を作成"
+    addProposal: "造語依頼"
+dictionaryResourcePart:
+  explanation: >-
+    アップロードした画像は、辞書の説明欄や単語の内容欄で使用することができます。
+    画像の下に表示されているコードを貼り付けてください。
+dictionarySettingPart:
+  tab:
+    general: "一般"
+    display: "表示"
+    editing: "編集"
+    template: "テンプレート"
+    authority: "権限"
+    file: "ファイル"
+dictionarySettingAuthorityPart:
+  heading:
+    editInvitation: "編集権限"
+    transferInvitation: "譲渡"
+  description:
+    editInvitation: >-
+      この辞書の編集権限を保有しているユーザーです。
+      これらのユーザーは、単語の編集や削除はできますが、辞書の設定変更や削除はできません。
+dictionarySettingDisplayPart:
+  heading:
+    font: "見出し語のフォント"
+    showNumbers: "通し番号"
+    showVariationPronunciation: "変化形の発音記号"
+    wordCardTitles: "単語カードでの見出し"
+    slimeTitles: "OTM-JSON 形式での見出し"
+  description:
+    font: >-
+      見出し語のフォントを変更することができます。
+      「ローカルフォントを参照」を選択すると、閲覧者各自の環境にインストールされているフォントを参照して使用します。
+      「フォントをアップロード」を選択すると、アップロードされた独自のフォントを使用します。
+    showNumbers: >-
+      これを有効にすると、セクションや訳語の横に通し番号が表示されるようになります。
+    wordCardTitles: >-
+      単語カードに各種項目を表示する際の見出しです。
+    slimeTitles: >-
+      辞書を OTM-JSON 形式で出力したときに各種項目が格納される内容欄の見出しです。
+  callout:
+    font: >-
+      アップロードしたフォントが反映されるまで時間がかかることがあります。
+      しばらくしても反映されない場合は、ブラウザのキャッシュを消去してみてください。
+dictionarySettingEditingPart:
+  heading:
+    akrantiainSource: "Akrantiain ソースコード"
+    zatlinSource: "Zatlin ソースコード"
+    enableAdvancedWord: "高度な単語編集"
+    enableMarkdown: "Markdown"
+    enableDuplicateName: "重複綴りチェック"
+    punctuations: "区切り文字"
+    ignoredEquivalentPattern: "訳語で無視するパターン"
+  description:
+    akrantiainSource: >-
+      Akrantiain とは、単語の綴りから発音記号を自動生成するためのシステムです。 
+      Akrantiain 用のソースコードを設定しておくと、Akrantiain を用いて自動的に単語の発音記号が生成され、単語の横に表示されるようになります。
+      単語に個別の発音が指定されているときは、そちらが優先されます。
+      Akrantiain の構文については<link>ドキュメント</link>をご覧ください。  
+    zatlinSource: >-
+      Zatlin とは、単語の綴りをランダムに生成するためのシステムです。 
+      Zatlin 用のソースコードを設定しておくと、単語編集画面で単語欄の横に「生成」ボタンが表示され、Zatlin を用いて綴りを生成できるようになります。
+      Zatlin の構文については<link>ドキュメント</link>をご覧ください。
+    enableAdvancedWord: >-
+      これを有効にしておくと、訳語から関連語までを 1 つのセクションとして、単語データに複数のセクションを登録できるようになります。 
+    enableMarkdown: >-
+      これを有効にしておくと、単語データの内容欄を Markdown 形式で書くことができるようになります。
+    enableDuplicateName: >-
+      これを有効にしておくと、単語編集画面で綴りを入力した際に、同じ綴りの単語がすでに存在しているかが表示されるようになります。
+      なお、あくまでこの機能は綴りの重複をチェックするのみで、同じ綴りの単語を登録できるなくなるわけではありません。
+    punctuations: >-
+      訳語の区切りとして使う文字です。
+      訳語欄に入力されたテキストはここで設定されている区切り文字で区切られ、訳語として登録されて訳語検索の対象となります。
+    ignoredEquivalentPattern: >-
+      訳語欄に入力されたテキストから訳語を抽出する際に、ここで設定された正規表現パターンにマッチした部分は無視されます。
+      そのため、マッチした部分は訳語検索の対象外となります。
+      例えば、訳語欄に動詞の格の取り方を明示したいが訳語検索の対象にはしたくない場合などに利用できます。
+dictionarySettingFilePart:
+  heading:
+    upload: "インポート"
+    download: "エクスポート"
+  description:
+    upload: >-
+      ファイルの内容をインポートして、現在のデータを上書きします。
+      OneToMany-JSON 形式 (拡張子 .json) と PDIC 形式 (拡張子 .dic) に対応しています。
+    download: >-
+      この辞書のデータを拡張 OneToMany-JSON 形式でエクスポートします。
+      詳細な仕様については<link>ドキュメント</link>をご覧ください。
+  callout:
+    upload: >-
+      2024 年 9 月 14 日より前に ZpDIC でエクスポートしたファイルには例文データが含まれていないので、そのようなファイルをインポートすると例文データが全て消えてしまいます。
+      古いファイルをインポートする際には十分注意してください。
+dictionarySettingGeneralPart:
+  heading:
+    name: "名前"
+    paramName: "URL 用識別子"
+    explanation: "説明"
+    visibility: "公開範囲"
+    discard: "削除"
+  description:
+    paramName: >-
+      これを設定すると、辞書ページの URL として、番号の部分をこの識別子に置き換えたものが利用できるようになります。
+    explanation: >-
+      この内容は、最初に辞書ページを開いたときに検索結果の代わりに表示されます。
+      一部の Markdown 形式に対応しています。
+    visibility: >-
+      これを「限定公開」に設定すると、この辞書が辞書一覧に表示されなくなります。
+      ただし、辞書ページの URL を知っている人は直接アクセスすることができます。
+  callout:
+    discard: >-
+      この辞書を削除すると、単語や例文などの関連するデータも全て削除されます。
+      後からデータを復元することはできないので、慎重に行ってください。
+dictionarySettingTemplatePart:
+  heading:
+    templateWords: "テンプレート"
+  button:
+    addTemplateWord: "テンプレートを追加"
+editArticlePage:
+  button:
+    confirm: "決定"
+editExamplePage:
+  button:
+    confirm: "決定"
+editWordPage:
+  button:
+    confirm: "決定"
+errorPage:
+  heading:
+    notFound: "Not\nFound"
+    forbidden: "Access\nDenied"
+    timeout: "Request\nTimeout"
+  message:
+    notFound: >-
+      お探しのページが見つかりませんでした。
+      削除されたか別の場所に移動された可能性がありますので、トップページから再度お探しください。
+    forbidden: >-
+      このページにアクセスする権限がありません。
+      トップページに戻り、他のコンテンツをお探しください。
+    timeout: >-
+      サーバーからの応答を受信するのに時間がかかっています。
+      通信環境の良い場所で再度お試しください。
+    error: >-
+      原因不明のエラーが発生しました。
+      お手数ですが、以下のエラーメッセージとともに管理者にご連絡ください。
+  button:
+    back: "トップページへ"
+    refresh: "ページを再読み込み"
+examplePage:
+  add: "新しい単語を作成"
+loginPage:
+  title: "ログイン"
+  heading: "ログイン"
+notificationListPage:
+  title: "お知らせ"
+  heading: "お知らせ"
+registerPage:
+  title: "新規登録"
+  heading: "新規登録"
+resetUserPasswordPage:
+  title:
+    issue: "パスワードリセット"
+    reset: "パスワードリセット"
+  heading:
+    issue: "パスワードリセット"
+    reset: "パスワードリセット"
+topPage:
+  button:
+    login: "ログイン · 新規登録"
+    dictionary: "辞書一覧"
+    userPage: "ユーザーページ"
+  aggregation:
+    dictionary: "辞書"
+    word: "単語"
+    example: "例文"
+  catch: "Draw{wbr} Your Own Universe{wbr} With Conlang"
+  heading:
+    gift: "支援のお願い"
+    offer: "今日の例文"
+    notification: "最新のお知らせ"
+    discord: "Discord コミュニティ"
+    github: "GitHub"
+    supporter: "スペシャルサンクス"
+  message:
+    gift: >-
+      ZpDIC Online は個人によって開発および保守されていますが、サービスの維持だけで年間数万円ほどかかってしまいます。
+      サービスの持続および向上には、皆様の支援が必要です。
+      もしこのアプリが気に入りましたら、ぜひ下記のボタンから開発者にギフトをお送りください。
+    giftSub: >-
+      ギフトを送っていただいた方のお名前を、下記の「スペシャルサンクス」欄に掲載させていただいています。
+      掲載しても良いという場合は、ギフトを送る際のメッセージに、お名前とリンク先を記載してください。
+      また、過去にギフトを送っていただいた方で掲載を改めて希望する方は、お問い合わせページからご連絡ください。
+    offer: >-
+      辞書ページから翻訳を追加することができます。
+      例文は毎朝 6 時に更新されます。
+  description:
+    discord: >-
+      Discord サーバー「Lang Lounge」内に、ZpDIC の公式フォーラムがあります。
+      ZpDIC に関する質問がある場合は、ここで解決できるかもしれません。
+    github: >-
+      このアプリケーションのソースコードは GitHub 上で公開されています。
+      何かの参考になりましたら幸いです。
+    supporter: >-
+      何らかの形でこのアプリケーションを支援してくださった方たちです (敬称略)。
+      この場を借りてお礼申し上げます。
+  subbutton:
+    gift: "ギフトを送る"
+    offer: "過去の例文を見る"
+    notification: "過去のお知らせを見る"
+    github: "GitHub で見る"
+userAppearancePart:
+  heading:
+    appearance: "外観"
+userDeveloperPart:
+  heading:
+    apiKey: "API キー"
+  description:
+    apiKey: >-
+      API キーを生成することで、API を利用してプログラムから辞書の検索や操作ができるようになります。
+      利用方法の詳細は<documentLink>ドキュメント</documentLink>や<specificationLink>仕様書</specificationLink>を参照してください。
+  callout:
+    apiKey: >-
+      API 機能は試験運用中です。
+      予告なしに挙動が変更される可能性があります。
+userSettingPart:
+  heading:
+    screenName: "ニックネーム"
+    avatar: "アイコン"
+    email: "メールアドレス"
+    password: "パスワード"
+    discard: "アカウント削除"
+  callout:
+    discard: >-
+      アカウントを削除すると、所有している辞書も全て削除されます。
+      後からデータを復元することはできないので、慎重に行ってください。
+
+alert:
+  message: |-
+    行った変更が保存されない可能性があります。
+    よろしいですか?
